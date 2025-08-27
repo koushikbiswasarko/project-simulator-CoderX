@@ -1,4 +1,3 @@
- feature/T-1
 # T-1: Implement Auth Feature
 ## T-1.1: Implement Sign In
 This task involves creating a Log in Screen with email and password fields
