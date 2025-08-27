@@ -12,6 +12,13 @@
 **Request on land post.**
 **Status: implemented**
 
+ feature/T-8
+## T-8: Map Feature
+## T-8.1: Google Map direction of land
+## T-8.2: 360° Video view
+**Status: Implemented**
+
+
  feature/T-16
 ## T-16.01: Employee can chat with buyer/buyer
 ## T-16: Implement chat and message system
@@ -40,6 +47,7 @@
 ## T-20.1: post can be translate into different languases
 **Status: Implemented**
 =======
+
 
 
 
