@@ -1,4 +1,14 @@
-feature/T-2
+ feature/T-1
+# T-1: Implement Auth Feature
+## T-1.1: Implement Sign In
+This task involves creating a Log in Screen with email and password fields
+## T-1.2: Implement Sign Up [only for User]
+This task involves creating a Registration screen for new user, where they enter their name, email, password, gender, location, and date of birth 
+## T-1.3: Implement Forget Password
+This task involves creating a Password reset screen with email input and next button
+**Status: Implemented** 
+ 
+ feature/T-2
 # T-2: Implement Information 
 ## T-2.1: Implement About Us 
 This task involves creating a Static page with a background 
@@ -6,9 +16,8 @@ This task involves creating a Static page with a background
 This task involves creating a Static text with company mission and values 
 ## T-2.3: Implement Till now total successful deals 
 This task involves creating a Statistic counter displaying completed deals 
-
 **Status: Implemented** 
-
+ 
 
 # Implemented Features 
 
@@ -57,8 +66,3 @@ This task involves creating a Statistic counter displaying completed deals
 ## T-20: Implemented Languase Transation
 ## T-20.1: post can be translate into different languases
 **Status: Implemented**
-
-
-
-
- main
