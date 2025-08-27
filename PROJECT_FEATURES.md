@@ -13,3 +13,7 @@
 ## t-18.1: Email reminder before any meeting
 **Status: Implemented**
 
+## T-19: Implemented Review & Rating
+## T-19.1: This task help customers to give review of Employee
+**Status: Implemented**
+
