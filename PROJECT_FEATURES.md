@@ -3,3 +3,9 @@
 ## T-16: Implement chat and message system
 ## T-16.1: This task help employee to chat with buyers
 **Status: Implemented**
+## T-17: Implement Property Ownership Verification
+## T-17.1: this task verify NID 
+## T-17: Implement Property Ownership Verification
+## T-17.1: this task provide NID verification
+**Status: Implemented**
+
