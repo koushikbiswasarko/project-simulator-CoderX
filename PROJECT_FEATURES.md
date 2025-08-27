@@ -12,23 +12,34 @@
 **Request on land post.**
 **Status: implemented**
 
+ feature/T-16
 ## T-16.01: Employee can chat with buyer/buyer
 ## T-16: Implement chat and message system
 ## T-16.1: This task help employee to chat with buyers
 **Status: Implemented**
+
+ feature/T-17
 ## T-17: Implement Property Ownership Verification
 ## T-17.1: this task verify NID 
 ## T-17: Implement Property Ownership Verification
 ## T-17.1: this task provide NID verification
 **Status: Implemented**
 
+ feature/T-18
 ## T-18: Implement Notification and Alerts
 ## t-18.1: Email reminder before any meeting
 **Status: Implemented**
 
+ feature/T-19
 ## T-19: Implemented Review & Rating
 ## T-19.1: This task help customers to give review of Employee
 **Status: Implemented**
+
+ feature/T-20
+## T-20: Implemented Languase Transation
+## T-20.1: post can be translate into different languases
+**Status: Implemented**
+=======
 
 
 
