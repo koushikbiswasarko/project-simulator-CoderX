@@ -1,11 +1,11 @@
 # Implement Dash Board
-## Implement Menu [User]
-This task involves creating a User dash board have 4 button give rent, take rent, sell and buy. One profile icon to see profile and a logout button
-## Implement Menu [Admin]
-This task involves creating an Admin dashboard with access to Staff Management, Revenue, Deal Success Rate, Employee Tracker, and Reports
-## Implement Menu [Manager]
-This task involves creating a Manager dashboard with access to Employee Management, Deal Assignment, Progress Tracking, and Reports
-## Implement Menu [Employee]
-This task involves creating a Schedule list, notification sign, assigned task, Fix meeting
+## Implement User Dashboard
+This task involves creating a clean, intuitive dashboard with four action buttons (Give Rent, Take Rent, Sell, Buy), a profile icon, and a logout option. Designed with cards or tiles for quick navigation.
+## Implement Admin Dashboard
+This task involves creating a control panel with modules for Staff Management, Revenue Tracking, Deal Success Rate, Employee Tracker, and Report Generation. Includes charts, tables, and widgets for real-time insights.
+## Implement Manager Dashboard
+This task involves creating a managerial dashboard with access to employee profiles, deal assignment tools, progress tracking modules, and reporting options. Includes task allocation interface and performance charts.
+## Implement Employee Dashboard
+This task involves creating a productivity-focused interface showing schedules, notifications, assigned tasks, and meeting management. Designed with calendar integration and task updates.
 
 **Status: Implemented**
