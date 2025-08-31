@@ -6,4 +6,4 @@ This task involves creating A registration form for new users with fields for Fu
 ## T-1.3: Implement Forget Password
 This task involves creating A password recovery screen with an email input field and a "Send Reset Link" button. Displays success/failure messages and guides the user to reset their password securely via an emailed link.
 
-**Status: Implemented** 
+**Status: Implemented**
